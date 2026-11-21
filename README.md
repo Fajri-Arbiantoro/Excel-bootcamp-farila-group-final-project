@@ -4,11 +4,11 @@ My Excel Bootcamp final project, a group dashboard built from 1,000 online order
 
 ## Project Background
 
-This project was completed as the final group assignment of an Excel Bootcamp I participated in, together with my teammates in Group A5 (Kelompok A5).
+This project was completed as the final group assignment of an Excel Bootcamp I participated in, together with my teammates in Group A5 (Kelompok A5), La Tansa Mahabbata and Risdayanti, under the guidance of our mentor, Naufal Ramadhan Adibperdana.
 
 The assignment involved working with 1,000 orders from Farila Muslim Store, sold across four marketplaces (Shopee, Tokopedia, BliBli, and Bukalapak) during April 2023. The objective was to prepare the raw data with formulas and lookups, analyse sales with Pivot Tables, assemble a dashboard with at least four charts and one slicer, and present what a Brand Owner should do based on the insights.
 
-This was a team effort, and I want to be clear about who did what. My teammates and I built the data preparation, KPI strip, marketplace, rating and region charts, slicers, and dashboard layout together. My individual part was three of the analyses (weekly trend vs profit, discount code vs profit, and product profit vs margin) and the final business conclusion. The project presentation labels each page as "Mine" or "Team" so the split is easy to see.
+This was a team effort, and I want to be clear about who did what. La Tansa Mahabbata, Risdayanti, and I built the data preparation, KPI strip, marketplace, rating and region charts, slicers, and dashboard layout together. My individual part was three of the analyses (weekly trend vs profit, discount code vs profit, and product profit vs margin) and the final business conclusion. The project presentation labels each page as "Mine" or "Team" so the split is easy to see.
 
 Compared with my earlier individual Excel projects, this was my first time working on one shared workbook with a team, which meant agreeing on a common data structure before anyone could build their own analysis.
 
@@ -97,7 +97,7 @@ Based on the completed workbook:
 
 The biggest challenge in this project was data preparation. Each order stored its items, quantities, and ratings in one text field, so splitting it into clean columns with FIND and MID took careful work. Every analysis after that depends on those columns, so a small error there would have affected every chart.
 
-Another important takeaway was working in a team. Splitting the work only works when everyone agrees on the same prepared data, column names, and definitions of profit and margin. Labelling which parts were mine and which were my teammates' also made me more careful about presenting my own contribution honestly.
+Another important takeaway was working in a team, and I am grateful to La Tansa Mahabbata and Risdayanti for the collaboration and to our mentor, Naufal Ramadhan Adibperdana, for the guidance. Splitting the work only works when everyone agrees on the same prepared data, column names, and definitions of profit and margin. Labelling which parts were mine and which were my teammates' also made me more careful about presenting my own contribution honestly.
 
 I also learned that the most obvious number is not always the most useful one. The product with the highest revenue was not the one with the highest margin, and the biggest discount earned the least profit. Looking at profit and margin together gave a much better basis for a recommendation than looking at sales alone.
 
