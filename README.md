@@ -17,7 +17,7 @@ This project represents another step in developing practical data analysis skill
 ## Project Files
 
 - [Excel Workbook (.xlsx)](./FARILA_FINAL_PROJECT_KELOMPOK_A5.xlsx)
-- [Project Presentation](./Fajri_Arbiantoro_Farila_Group_Project_Portfolio.pdf)
+- [Project Presentation](./Group%20Final%20Project.pdf)
 
 The workbook contains eight sheets: Guide, Main Data, Clean Data, Pivot Table, Dashboard, Rating, Kode Diskon, and Katalog.
 
